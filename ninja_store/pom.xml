@@ -12,7 +12,7 @@
  	<dependency>					<!-- Criando a dependencias para baixar o junit -->
  		<groupId>junit</groupId>
  		<artifactId>junit</artifactId>
- 		<version>4.12</version>
+ 		<version>4.13.1</version>
    </dependency>
 	<dependency>					<!-- Criando a dependencias para baixar o javaFaker -->
 	    <groupId>com.github.javafaker</groupId>
